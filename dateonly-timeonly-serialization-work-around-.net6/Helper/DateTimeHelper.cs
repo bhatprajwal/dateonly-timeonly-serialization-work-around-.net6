@@ -12,7 +12,7 @@ public class DateTimeHelper
 		{
 			var options = new JsonSerializerOptions(JsonSerializerDefaults.Web);
 
-			options.Converters.Add(new JsonStringEnumConverter());
+			//options.Converters.Add(new JsonStringEnumConverter());
 			options.Converters.Add(new DateOnlyConverter());
 			options.Converters.Add(new TimeOnlyConverter());
 			return options;
