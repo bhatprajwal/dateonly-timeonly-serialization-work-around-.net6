@@ -1,20 +1,7 @@
 {
   "Id": "6d452b64-7873-4eed-bb48-81c2d2d189dd",
   "Name": "Prajwal",
-  "DateOfBirth": {
-    "Year": 1990,
-    "Month": 10,
-    "Day": 10,
-    "DayOfWeek": 0,
-    "DayOfYear": 0,
-    "DayNumber": 0
-  },
-  "TimeOfBirth": {
-    "Hour": 10,
-    "Minute": 10,
-    "Second": 10,
-    "Millisecond": 0,
-    "Ticks": 0
-  },
+  "DateOfBirth": "1990-01-26",
+  "TimeOfBirth": "20:10",
   "BirthPlace": "India"
 }
